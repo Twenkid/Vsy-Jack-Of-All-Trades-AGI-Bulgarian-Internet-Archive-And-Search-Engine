@@ -2,7 +2,7 @@
 
 # Архив на българския Интернет, българска търсачка и услуга за "медия-клипинг" и др.
 
-## Запазване на данни и знания от българския и световния Интернет
+## Запазване на данни и знания от българския и световния Интернет и тяхната аналитична обработка
 
 # Bulgarian-Internet-Archive
 Bulgarian Internet Archive Project - Preserve Data and Knowledge from the Local and Global Network
