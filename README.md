@@ -303,3 +303,6 @@ http://arxiv.org (сравни с http://archive.org) също е важен с�
 <img src="https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/blob/main/arnaudov-hassabis-2003-2007-2009-vs-2022/1.jpg" width=49%> <img src="https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/blob/main/arnaudov-hassabis-2003-2007-2009-vs-2022/2.jpg" width=49%>
 <img src="https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/blob/main/arnaudov-hassabis-2003-2007-2009-vs-2022/3.jpg" width=49%>
 
+* One older (not pushy enough) invitation re an automatic programming R&D collaboration: https://artificial-mind.blogspot.com/2019/05/call-for-co-founders-of-r-startup-in.html
+
+
