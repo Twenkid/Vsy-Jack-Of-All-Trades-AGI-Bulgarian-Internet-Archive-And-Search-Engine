@@ -3,6 +3,10 @@
 
 <a href="https://github-com.translate.goog/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp">English (Google Translate)</a>
 
+## Archive and Intelligent Database of selected portions, domains, topics, areas of the Internet; Web Search engine for the Bulgarian Internet and any localized or contextualized part of it defined by geography, language, topic etc. criteria; Service for media monitoring and information retrieval; Multimodal generative models: text, sound/speech, images, video; code etc.; scientific and technical hypotheses, designs, projects; machine translation, speech synthesis, speech recognition, conversational agents etc. and building datasets and knowledge bases etc.[^2]
+
+This project is one of the practical preparations and calls for collaborators, warm-up, training etc. for the major AGI project of "Sacred Computer" which involves other directions and theoretical research.
+
 ## Архив и умна БД на българския Интернет и на избрани части от световния; българска и световна търсачка, услуги за наблюдение и анализ на съдържанието на медиите и извличане на информация, пораждащи мултимодални модели: текст, звук/реч, образ, видео; програмен код и др.; научни и технически хипотези и проекти и пр.; машинен превод, синтез на реч, разпознаване на реч, диалогови агенти и др. и създаване на ресурси с данни и знания и др.[^2]
 
 ## Запазване на данни и знания от българския и световния Интернет и тяхната аналитична обработка
