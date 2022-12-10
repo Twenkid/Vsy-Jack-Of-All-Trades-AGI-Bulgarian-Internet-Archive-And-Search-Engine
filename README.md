@@ -3,6 +3,10 @@
 
 <a href="https://github-com.translate.goog/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp">English (Google Translate)</a>
 
+# VSY | ВСИ | ВСИЧКО
+
+Working title. "Всичко" (Vsichko, Vsychko) means "Everything'.
+
 ## Archive and Intelligent Database of selected portions, domains, topics, areas of the Internet; Web Search engine for the Bulgarian Internet and any localized or contextualized part of it defined by geography, language, topic etc. criteria; Service for media monitoring and information retrieval; Multimodal generative models: text, sound/speech, images, video; code etc.; scientific and technical hypotheses, designs, projects; machine translation, speech synthesis, speech recognition, conversational agents etc. and building datasets and knowledge bases etc.[^2]
 
 This project is one of the practical preparations and calls for collaborators, warm-up, training etc. for the major AGI project of "Sacred Computer" which involves other directions and theoretical research.
@@ -66,6 +70,8 @@ https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/
 TypeQL?, Neo4J?
 
 ### Новини, общи бележки, задачи (от нови към стари)
+
+c
 
 30.11.2022: Задача: Мисли за архитектури, модели, представяния за графи, модели, мрежи, структури за представяне на знанията и съдържанието и търсенията. Съществуващи решения и др. Проучи подробно търсещите алгоритми (методи) и търсачки на Гугъл и др. търсачки (върви).
 
