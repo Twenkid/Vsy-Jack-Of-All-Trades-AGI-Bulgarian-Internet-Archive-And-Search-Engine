@@ -318,4 +318,5 @@ http://arxiv.org (сравни с http://archive.org) също е важен с�
 
 * One older (not pushy enough) invitation re an automatic programming R&D collaboration: https://artificial-mind.blogspot.com/2019/05/call-for-co-founders-of-r-startup-in.html
 
+* The original short "About" definition: Архив на българския Интернет, българска търсачка и услуга за "медия-клипинг" и др. Запазване на данни и знания от българския и световния Интернет и тяхната аналитична обработка. Bulgarian Internet Archive Project - Preserve Data and Knowledge from the Local and Global Network
 
