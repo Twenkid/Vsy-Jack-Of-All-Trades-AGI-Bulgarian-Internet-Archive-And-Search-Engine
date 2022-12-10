@@ -4,8 +4,11 @@
 <a href="https://github-com.translate.goog/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp">English (Google Translate)</a>
 
 # VSY | ВСИ | ВСИЧКО
+# СПЕЦИАЛИСТ ПО ВСИЧКО | JACK OF ALL TRADES
 
-Working title. "Всичко" (Vsichko, Vsychko) means "Everything'.
+Working title: 3 variants. The long version "Всичко" (Vsichko, Vsychko) means "Everything'.
+
+Alternative longer funny version: "Jack of All Trades", or "Expert in Everything"  referring to a cult Bulgarian comedy movie from 1962. BTW, one of the characters there, a University student, mentions that he is into the Cybernetics. He is a roommate of the main character, who becames "an expert in everything": https://www.imdb.com/title/tt0279435/
 
 ## Archive and Intelligent Database of selected portions, domains, topics, areas of the Internet; Web Search engine for the Bulgarian Internet and any localized or contextualized part of it defined by geography, language, topic etc. criteria; Service for media monitoring and information retrieval; Multimodal generative models: text, sound/speech, images, video; code etc.; scientific and technical hypotheses, designs, projects; machine translation, speech synthesis, speech recognition, conversational agents etc. and building datasets and knowledge bases etc.[^2]
 
