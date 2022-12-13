@@ -80,6 +80,13 @@ TypeQL?, Neo4J?
 
 ### Новини, общи бележки, задачи (от нови към стари)
 
+https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/9
+https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/8
+https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/7
+https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/11
+https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/10
+
+
 1.12.2022+: ... Deep and diverse exploration, research, study, refresh and deepening of the knowledge and feeding the mind with concepts, directions, topics, tasks, problems, solutions etc. in the domains of Information Retrieval, Full-text search, Search engines,  Data Science, Data Bases - DBMS, Distributed (Streaming) Databases, Corpus Linguistics, NLP, Semantic Web/Semntic Technologies, HCI (Human-computer interaction); Crawling, Archive formts/data formats for serialization (WARC etc.); Strategic platforms and languages for future use (...) -- Document the notes and records more thoroughly in Issues and separate items
 
 30.11.2022: Задача: Мисли за архитектури, модели, представяния за графи, модели, мрежи, структури за представяне на знанията и съдържанието и търсенията. Съществуващи решения и др. Проучи подробно търсещите алгоритми (методи) и търсачки на Гугъл и др. търсачки (върви).
