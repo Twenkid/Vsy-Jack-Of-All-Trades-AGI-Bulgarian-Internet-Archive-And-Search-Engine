@@ -1,5 +1,13 @@
 ![image](https://user-images.githubusercontent.com/23367640/189515029-7071dc21-c8f0-428b-895c-abebc548d27b.png)
 <h3>СВЕЩЕНИЯТ СМЕТАЧ и ДРУЖЕСТВО ЗА ЗАЩИТА НА БЪЛГАРСКИЯ ЕЗИК - ДЗБЕ</h3>
+<h3>SACRED COMPUTER:
+ 
+INTERDISCIPLINARY INSTITUE FOR ARTIFICIAL GENERAL INTELLIGENCE AND TRANSHUMANISM
+ 
+DZBE: SOCIETY FOR PROTECTION OF THE BULGARIAN LANGUAGE
+</h3>
+ 
+"Sacred Computers" was created in 2000, publishing original works and research in AGI and transhumanism since 2001. DZBE was informally working since 2000-2001, "officially" created in 2002.
 
 <a href="https://github-com.translate.goog/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp">English (Google Translate)</a>
  
