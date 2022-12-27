@@ -92,6 +92,8 @@ https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/7
 https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/11
 https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/10
 
+27.12.2022: ... + ... studies ... 
+Related companies and services: two startups: Vectara and Pinecone. Watch the Issues for updates.
 
 1.12.2022+: ... Deep and diverse exploration, research, study, refresh and deepening of the knowledge and feeding the mind with concepts, directions, topics, tasks, problems, solutions etc. in the domains of Information Retrieval, Full-text search, Search engines,  Data Science, Data Bases - DBMS, Distributed (Streaming) Databases, Corpus Linguistics, NLP, Semantic Web/Semntic Technologies, HCI (Human-computer interaction); Crawling, Archive formts/data formats for serialization (WARC etc.); Strategic platforms and languages for future use (...) -- Document the notes and records more thoroughly in Issues and separate items
 
