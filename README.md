@@ -92,6 +92,10 @@ https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/7
 https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/11
 https://github.com/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine/issues/10
 
+14.1.2023: ... In the mean time I've been exploring and refreshing a lot of topics, concepts and articles, drifting towards more general and wide domains related to general cognition-related sciences, maths and computer science, too wide to be generalied briefly. I also have to complete a few final articles/chapters/notes in my "AGI pioneer" book and start to "aggressively" promote and present it in the search of partners for both the AGI project and this sub-project which is part of the whole.
+
+That postponed and may postpone a bit the beginning of an actual implementation, however I would probably switch to a more development-inclined mode of operation soon. Regarding the technical aspects of my latest studies, one of the latest domains I've been studying the last few days in a crash course is LLVM, playing with the Kaleidoscope compiler examples with intention to be able to introduce and apply development of custom languages, JIT compilation etc., possibly adding LLVM code generation for the small Virtual machine "KidVM" I developed some time ago; for code generation/automatic programming and AGI in general. As I see, ML and transformers are already geting into LLVM, with MLIR and works on application of transformer ML language models for low level optimization and code generation. 
+
 27.12.2022: ... + ... studies ... 
 Related companies and services: two startups: Vectara and Pinecone. Watch the Issues for updates.
 
