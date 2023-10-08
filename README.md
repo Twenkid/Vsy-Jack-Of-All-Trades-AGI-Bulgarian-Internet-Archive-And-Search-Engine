@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/23367640/189515029-7071dc21-c8f0-428b-895c-abebc548d27b.png)
 
-<a href="https://github-com.translate.goog/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp">All in English (Google Translate)</a>
+<a href="https://github-com.translate.goog/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp">All in English (Google Translate)</a>  
+
+* See the Issues section for directions by topic, collected information, plans etc. (they should move to folders and other files)
  
 # VSY | ВСИ | ВСИЧКО
 # СПЕЦИАЛИСТ ПО ВСИЧКО <br> JACK OF ALL TRADES[^1]
