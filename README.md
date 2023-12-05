@@ -13,6 +13,8 @@ This project is one of the practical preparations and calls for collaborators, w
 
 This project is connected and part of the <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a> (TOUM), or "The Bulgarian Prophecies" in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, A unification of Universe, Mind, Computation, Evolution, AI etc. 2001-2004 etc.
 
+__See subprojects (such as EZ - Drone's Brain etc.) and R&D directions currently in the Issues of the project.__
+
 ## _Инфраструктура за Общ Изкуствен Интелект:_ Архив и умна БД на българския Интернет и на избрани части от световния; българска и световна търсачка, услуги за наблюдение и анализ на съдържанието на медиите и извличане на информация, мултимодални пораждащи модели: текст, звук/реч, образ, видео; програмен код и др.; научни и технически хипотези и проекти и пр.; машинен превод, синтез на реч, разпознаване на реч, диалогови агенти, играчи на игри и др. и създаване на ресурси с данни и знания и др.[^3]
 
 Този проект е част от приложната подготовка и покана за сътрудничество, "загрявка", упражнения и пр. за главния проект за Универсален изкуствен разум на институт "Свещеният сметач", който включва и други направления и теоретични и абстрактни изследвания, които все още не са включени тук. Виж книгата (засега само на български): _"ПРОРОЦИТЕ НА МИСЛЕЩИТЕ МАШИНИ: ИЗКУСТВЕН РАЗУМ И 
