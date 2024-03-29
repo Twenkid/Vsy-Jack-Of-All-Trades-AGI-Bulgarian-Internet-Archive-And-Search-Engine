@@ -5,7 +5,7 @@
 * See the Issues section for directions by topic, collected information, plans etc. (they should move to folders and other files)
  
 # VSY | ВСИ | ВСИЧКО
-# СПЕЦИАЛИСТ ПО ВСИЧКО/ВСЕДЪРЖЕЦ <br> MASTER OF ALL TRADES | (Formerly JACK OF ALL TRADES)[^1]
+# ВСЕДЪРЖЕЦ | ВСЕДЪРЖИТЕЛ |СПЕЦИАЛИСТ ПО ВСИЧКО) <br> MASTER OF ALL TRADES | (also JACK OF ALL TRADES)[^1]
 
 ## _Artificial General Intelligence Infrastructure:_ Archive and Intelligent Database of selected portions, domains, topics, areas of the Internet; Web Search engine for the Bulgarian Internet and any localized or contextualized part of it defined by geography, language, topic etc. criteria; Service for media monitoring and information retrieval; Multimodal generative models: text, sound/speech, images, video; code etc.; scientific and technical hypotheses, designs, projects; machine translation, speech synthesis, speech recognition, conversational agents etc. and building datasets and knowledge bases etc.[^2]
 
