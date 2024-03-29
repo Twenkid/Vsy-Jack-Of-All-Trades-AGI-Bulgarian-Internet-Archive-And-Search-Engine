@@ -5,7 +5,7 @@
 * See the Issues section for directions by topic, collected information, plans etc. (they should move to folders and other files)
  
 # VSY | ВСИ | ВСИЧКО
-# СПЕЦИАЛИСТ ПО ВСИЧКО <br> MASTER OF ALL TRADES | (Formerly JACK OF ALL TRADES)[^1]
+# СПЕЦИАЛИСТ ПО ВСИЧКО/ВСЕДЪРЖЕЦ <br> MASTER OF ALL TRADES | (Formerly JACK OF ALL TRADES)[^1]
 
 ## _Artificial General Intelligence Infrastructure:_ Archive and Intelligent Database of selected portions, domains, topics, areas of the Internet; Web Search engine for the Bulgarian Internet and any localized or contextualized part of it defined by geography, language, topic etc. criteria; Service for media monitoring and information retrieval; Multimodal generative models: text, sound/speech, images, video; code etc.; scientific and technical hypotheses, designs, projects; machine translation, speech synthesis, speech recognition, conversational agents etc. and building datasets and knowledge bases etc.[^2]
 
@@ -15,7 +15,17 @@ This project is connected and part of the <a href="https://github.com/Twenkid/Th
 
 __See subprojects (such as EZ - Drone's Brain etc.) and R&D directions currently in the Issues of the project.__
 
-### News, 19.2.2024, 24.2.2024 ... : BgGPT-7B ..
+### News, 29.3.2024
+
+New/additional titles: Master of All Trades and Вседържец/Вседържител - дума от юнашкото наречие за операционна система.
+Смарти 2, Тошко 3, Езикотворец и цялата инфраструктура ще използва разпознаване на реч, което вече използвам и усъвършенствам начина на работа и резултатите с малки модели.
+Засега се ползва Whisper. (...)
+
+### News, 19.2.2024, 24.2.2024 ... : BgGPT-7B .. +++
+
+A lot of work in many areas, reviving Smarty and NLP R&D, collecting and organizing web/linguistic data, speech recognition, the unpublished Research Assistant ACS (...) even recalling OpenCL/CUDA for eventual usage.
+
+Etc., many unpublished records (...)
 
 * https://artificial-mind.blogspot.com/2024/02/bggpt-instruct-01-mistral7b-in-google.html
 * https://artificial-mind.blogspot.com/2024/02/bggpt-7b-google-colab-insait.html
