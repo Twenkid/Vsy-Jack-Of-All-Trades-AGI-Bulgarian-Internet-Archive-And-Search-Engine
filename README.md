@@ -2,7 +2,7 @@
 
 <a href="https://github-com.translate.goog/Twenkid/Bulgarian-Internet-Archive-And-Search-Engine?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp">All in English (Google Translate)</a>  
 
-* See the Issues section for directions by topic, collected information, plans etc. (they should move to folders and other files)
+* See the *Issues* section for directions аnd notes by topic, collected information, plans etc. (they should move to folders and other markup files and web sites in the future)
  
 # VSY | ВСИ | ВСИЧКО
 # ВСЕДЪРЖЕЦ | ВСЕДЪРЖИТЕЛ |СПЕЦИАЛИСТ ПО ВСИЧКО) <br> MASTER OF ALL TRADES | (also JACK OF ALL TRADES)[^1]
@@ -29,6 +29,9 @@ Etc., many unpublished records (...)
 
 * https://artificial-mind.blogspot.com/2024/02/bggpt-instruct-01-mistral7b-in-google.html
 * https://artificial-mind.blogspot.com/2024/02/bggpt-7b-google-colab-insait.html
+* Etc.
+* Repo with other links and notebooks: https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine
+* A lot of work is unpublished yet, subscribe for news and help if you can
 
 ## _Инфраструктура за Общ Изкуствен Интелект:_ Архив и умна БД на българския Интернет и на избрани части от световния; българска и световна търсачка, услуги за наблюдение и анализ на съдържанието на медиите и извличане на информация, мултимодални пораждащи модели: текст, звук/реч, образ, видео; програмен код и др.; научни и технически хипотези и проекти и пр.; машинен превод, синтез на реч, разпознаване на реч, диалогови агенти, играчи на игри и др. и създаване на ресурси с данни и знания и др.[^3]
 
