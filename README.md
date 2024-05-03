@@ -15,6 +15,17 @@ This project is connected and part of the <a href="https://github.com/Twenkid/Th
 
 __See subprojects (such as EZ - Drone's Brain etc.) and R&D directions currently in the Issues of the project.__
 
+### Новини, 3.5.2024  (...)
+
+Интензивна изследователска и експериментална дейност, която не мога да описвам (и част не е за публикуване за момента).
+Нещо малко: гласовото управление на езикови модели и др., запис от 29.3.2024. Използва малък модел Whisper и допълнителна обработка, връзка с GPT4ALL и BgGPT или др. езикови модели.
+https://youtu.be/4X9I15qmpdo?si=6-1pzXdW6gYsDiGO
+![image](https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine/assets/23367640/83745659-aa0c-486c-b407-7de88b8ee243)
+
+* How to Run LLama3 8B in Kaggle 16-bit  (see the Youtube channel)
+* http://bggpt.twenkid.com
+
+
 ### News, 29.3.2024
 
 New/additional titles: Master of All Trades and Вседържец/Вседържител - дума от юнашкото наречие за операционна система.
