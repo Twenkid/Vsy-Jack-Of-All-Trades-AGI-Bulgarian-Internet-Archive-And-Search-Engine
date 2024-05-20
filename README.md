@@ -17,6 +17,9 @@ __See subprojects (such as EZ - Drone's Brain etc.) and R&D directions currently
 
 ### Новини, 3.5.2024  (...)
 
+* <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine/blob/main/Domains/Translate/apis.md">Translation APIs</a> 20.5.2024
+* ...
+
 Интензивна изследователска и експериментална дейност, която не мога да описвам (и част не е за публикуване за момента).
 Нещо малко: гласовото управление на езикови модели и др., запис от 29.3.2024. Използва малък модел Whisper и допълнителна обработка, връзка с GPT4ALL и BgGPT или др. езикови модели.
 https://youtu.be/4X9I15qmpdo?si=6-1pzXdW6gYsDiGO
