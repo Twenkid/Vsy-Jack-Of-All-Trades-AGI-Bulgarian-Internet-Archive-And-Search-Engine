@@ -15,8 +15,10 @@ This project is connected and part of the <a href="https://github.com/Twenkid/Th
 
 __See subprojects (such as EZ - Drone's Brain etc.) and R&D directions currently in the Issues of the project.__
 
-### Новини, 3.5.2024  (...)
-
+### Новини
+19.8.2024
+* Adding notes in markup files (not only in the issues): Intelligent OS projects
+ https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine/notes/intelligent-os-projects.md
 * <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine/blob/main/Domains/Translate/apis.md">Translation APIs</a> 20.5.2024
 * ...
 
