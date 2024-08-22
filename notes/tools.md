@@ -8,3 +8,9 @@ __*Data extraction and processing from docs and imgs:__ https://github.com/katan
 
 Currently I've used GPT4ALL with Whisper and my Autoclap and custom script, should be connected with Smarty 2 and ACS.
 See also pdf ... used locally for building corpora from pdf papers.
+
+* Async concurrency and IO and Async httplib for Py: 
+
+https://github.com/python-trio/trio
+
+https://github.com/theelous3/asks
