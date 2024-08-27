@@ -14,3 +14,6 @@ See also pdf ... used locally for building corpora from pdf papers.
 https://github.com/python-trio/trio
 
 https://github.com/theelous3/asks
+
+* CLIP image sorter in the browser locally
+https://josephrocca.github.io/clip-image-sorter/
