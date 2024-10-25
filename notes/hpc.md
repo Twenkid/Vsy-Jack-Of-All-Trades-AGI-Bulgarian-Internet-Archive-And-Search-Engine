@@ -1,7 +1,7 @@
 # VSY | ВСЕДЪРЖЕЦ
-# HPC - High Performance Computing:
-## Parallel, distributed, concurent computations; multithreading, multiprocessing, SIMD, MIMD, vectorization, libraries, techniques, transducers
-### OpenCL, CUDA, MPI, ROS2, Mojo, Thrill, ...
+# HPC - High Performance Computing
+## Parallel, distributed, concurent computations; multithreading, multiprocessing, SIMD, MIMD, vectorization, libraries, techniques, transducers; big data
+### OpenCL, CUDA, MPI, ROS2, Mojo, Thrill, Spark, Flink ...
 
 * 25.10.2024
 
