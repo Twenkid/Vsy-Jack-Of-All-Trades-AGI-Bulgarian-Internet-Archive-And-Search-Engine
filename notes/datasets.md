@@ -2,6 +2,9 @@
 
 ## Datasets
 
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+
+
 * Tools, tutorials, hf dataset, formats:
 
 huggingface.co/docs/datasets/en/about_arrow
@@ -142,6 +145,13 @@ https://www.google.com/search?q=Dolma-1.7 dataset
 
 https://huggingface.co/datasets/allenai/dolma
 
+## Small image
+
+https://www.kaggle.com/datasets/imbikramsaha/caltech-101/data
+
+https://www.kaggle.com/datasets/jessicali9530/caltech256
+
+https://docs.ultralytics.com/datasets/classify/caltech256/#what-is-the-caltech-256-dataset-and-why-is-it-important-for-machine-learning
 
 
 ### Domains, modalities, tasks ...
@@ -154,3 +164,5 @@ https://huggingface.co/datasets/ChilleD/MultiArith?row=20
 
 The Pile: An 800GB Dataset of Diverse Text for Language Modeling [Submitted on 31 Dec 2020] ... | https://arxiv.org/pdf/2101.00027 ... | ... https://huggingface.co/datasets/ArmelR/the-pile-splitted/tree/main
 | ... https://huggingface.co/datasets/EleutherAI/pile
+
+
