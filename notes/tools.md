@@ -87,4 +87,14 @@ Tenyks service, Botty Dimanov: "The Data-Centric Approach to Computer Vision"
 https://www.tenyks.ai/  
 
 
+* CRFs, WSD WN - Conditional Random Fields classifier & Word-sense disambiguation with wordnet NLTK [note 3.2.2025]
+
+https://sklearn-crfsuite.readthedocs.io/en/latest/tutorial.html#features
+  
+NLPTK & pywsd
+https://github.com/alvations/pywsd   
+
+See NB Optimizations test
+
+  
 
