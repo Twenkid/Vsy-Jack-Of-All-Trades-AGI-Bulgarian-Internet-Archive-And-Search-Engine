@@ -1,5 +1,12 @@
 # VSY | ВСЕДЪРЖЕЦ
 
+### Software, tools
+(should do it automatically) 
+Wordless, AntConc, aConcorde (simple, single files) ...  Concordance creators, viewers and more (Wordless 3.5.0)
+Just regex (Notepad++ etc.)
+
+
+* Readability estimation formulas ... (add, generate others incrementally)
 
 * https://github.com/jamesturk/jellyfish - a python library for doing approximate and phonetic matching of strings.
 
@@ -33,3 +40,4 @@ jellyfish.match_rating_codex('Jellyfish')
 ```
 
 ---> Apply if not matching with the applied exact or regex search etc., choose the best matches (or according to some constraints). Note 3.4.2025
+
