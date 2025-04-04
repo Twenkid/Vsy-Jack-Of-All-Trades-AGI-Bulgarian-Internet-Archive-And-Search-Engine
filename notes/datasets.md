@@ -166,3 +166,5 @@ The Pile: An 800GB Dataset of Diverse Text for Language Modeling [Submitted on 3
 | ... https://huggingface.co/datasets/EleutherAI/pile
 
 
+* https://github.com/RenzeLou/awesome-instruction-learning -- list to Datasets
+* https://github.com/allenai/unifiedqa
