@@ -2,7 +2,7 @@
 
 ### Software, tools
 (should do it automatically) 
-Wordless, AntConc, aConcorde (simple, single files) ...  Concordance creators, viewers and more (Wordless 3.5.0)
+Wordless, AntConc, AntPConc, aConcorde (simple, single files) ...  Concordance creators, viewers and more (Wordless 3.5.0)  https://www.laurenceanthony.net/software/antpconc/
 Just regex (Notepad++ etc.)
 
 
@@ -41,3 +41,5 @@ jellyfish.match_rating_codex('Jellyfish')
 
 ---> Apply if not matching with the applied exact or regex search etc., choose the best matches (or according to some constraints). Note 3.4.2025
 
+
+* https://paraconc.com/ - paid, Parallel concordance - see Wordless https://www.sciencedirect.com/science/article/pii/S2352711024003017
