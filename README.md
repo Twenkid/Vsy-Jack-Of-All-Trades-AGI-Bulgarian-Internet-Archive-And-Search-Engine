@@ -8,6 +8,8 @@
 ## ВСЕДЪРЖЕЦ | ВСЕДЪРЖИТЕЛ |СПЕЦИАЛИСТ ПО ВСИЧКО) <br> MASTER OF ALL ARTS | (also JACK OF ALL TRADES)[^1]
 ## AGI OS and Infrastructure for agents and unmanned vehicles
 
+Created: 11.9.2022 (dd/mm)
+
 ### _Artificial General Intelligence Infrastructure:_ Archive and Intelligent Database of selected portions, domains, topics, areas of the Internet; Web Search engine for the Bulgarian Internet and any localized or contextualized part of it defined by geography, language, topic etc. criteria; Service for media monitoring and information retrieval; Multimodal generative models: text, sound/speech, images, video; code etc.; scientific and technical hypotheses, designs, projects; machine translation, speech synthesis, speech recognition, conversational agents etc. and building datasets and knowledge bases etc.[^2]
 
 This project is one of the practical preparations and calls for collaborators, warm-up, training etc. for the major AGI project of "Sacred Computer" which involves other directions and theoretical research. See the book (currently Bulgarian only): _"The Prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers by the Child Prodigy Founder of the Bulgarian AGI and Transhumanism and Author of the World's First University Course in AGI"._
