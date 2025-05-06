@@ -1,3 +1,5 @@
+# python -m pip install warcio
+
 import requests
 import json
 
