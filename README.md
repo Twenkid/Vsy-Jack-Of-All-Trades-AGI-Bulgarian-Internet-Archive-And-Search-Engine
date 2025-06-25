@@ -16,6 +16,8 @@ This project is one of the practical preparations and calls for collaborators, w
 
 This project is connected and part of the <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a> (TOUM), or "The Bulgarian Prophecies" in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, A unification of Universe, Mind, Computation, Evolution, AI etc. 2001-2004 etc.
 
+Visit & participate at the virtual conference Thinking Machines 2025: https://github.com/Twenkid/SIGI-2025/
+
 __See subprojects (such as EZ - Drone's Brain etc.) and R&D directions currently in the Issues of the project.__
 
 ### Новини
