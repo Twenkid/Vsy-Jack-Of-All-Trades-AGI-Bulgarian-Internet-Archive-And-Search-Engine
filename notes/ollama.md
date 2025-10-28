@@ -128,3 +128,9 @@ Watch GPUs memory, load:
 
 CPUID HWmonitor
 nvidia-smi...
+
+
+
+...
+
+https://ollama.com/blog/streaming-tool
