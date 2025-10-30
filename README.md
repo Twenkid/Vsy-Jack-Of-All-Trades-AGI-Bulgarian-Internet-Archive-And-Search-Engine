@@ -19,6 +19,21 @@ This project is connected and part of the <a href="https://github.com/Twenkid/Th
 **Visit & participate at the virtual conference Thinking Machines 2025:** https://github.com/Twenkid/SIGI-2025/
 
 ...
+[Follow news and publications at SIGI-2025, Artificial Mind etc. also the Issues and the folder with Notes and Data include updates. This front page is not updated lately - it might be after finishing some of the work I have on SIGI-2025. ]
+
+One table from "The first modern AI strategy was published by an 18-year old in 2003 ": GPT2-BG-Medium, crated by the author, was one of the biggest non-English GPT-type LLMs in 2021, created for free on Google Colab.
+https://artificial-mind.blogspot.com/2025/04/the-worlds-first-ai-strategy-was-published-in-2003-by-an-18-years-old-bulgarian.html
+The first project language and multimodal generative models was published in May 2003: https://www.researchgate.net/publication/395129890_Creativity_is_Imitation_at_the_Level_of_Algorithms_-_An_outline_sketch_of_a_possible_path_of_development_of_the_Artificial_Intelligence_Emil
+
+<img width="501" height="667" alt="image" src="https://github.com/user-attachments/assets/6867715d-55b2-4cb3-bebf-f91fc3dcf047" />
+
+236. Ранни пораждащи големи езикови модели от типа GPT за езици, различни от английския: български, френски, арабски, испански, португалски, немски, китайски; гръцки, сръбски, румънски, японски – 2020-2021 г.  Датата на някои – по дати на файловете с теглата на модела, дата на научна статия и пр. Само френският, арабският, румънският, японският и българският са с над 100-тина милиона параметъра. Румънският е силен, обучаван на 17 GB-ов корпус. Само българският вероятно е разработен от един-единствен човек с бюджет и подкрепа = 0 и авторът представя родната компютърна лингвистика в тази дисциплина като самозван „хайдутин“, понеже институциите и по-„елитните“ бойци чакаха до 2023-2024 г. [66] (няма данни). Сравни с аналогичен случай с ДЗБЕ около 2001-2003 г. и бездействието на ИБЕ на БАН и на останалите филолози от университетите спрямо явленията, срещу които ДЗБЕ се противопоставяше и се опитваше да „призове“ „чети“ [16][40], а „маститите“ езиковеди (по определението на Павлин Стойчев, „PC World Bulgaria“, 5.2003 [239]) гледаха безучастно и обясняваха, че това били „естествени процеси“. Сравни с бележките за „Добродетелната дружина и нехранимайковците“ и [40], 2003 г., дали талантите не са имали избор да не учат в „най-престижните университети“ и да развият местните и пр. XLM-R от „Фейсбук“, 11.2019 е по-голям, но в него българският е един от 100 езика, на които е обучаван, и е за класификация и отговаряне на въпроси, а не за пораждане.
+* Тодор Арнаудов, GPT2-MEDIUM-BG, Свещеният сметач, ДЗБЕ ~6.2021 – 8.2021,  345М – български – обучен от нулата на Tesla T4 в Colab [31][46]
+* Antoine Simoulin, Benoit Crabbé. Un modèle Transformer Génératif Pré-entrainé pour le ______ français. Traitement Automatique des Langues Naturelles, 6.2021, Lille, France. pp.246-255. ffhal03265900f  https://hal.science/hal-03265900 : – френски GPTfr-124M и GPTfr-1B с архитектурата на GPT3. 5.2021
+* https://huggingface.co/dbddv01/gpt2-french-small - друг френски малък SMALL 137M, също обучен в Colab като българския, но с платена услуга Colab Pro.
+* Wissam Antoun and Fady Baly and Hazem HajjARAGPT2: Pre-Trained Transformer for Arabic Language Generation, 7.3.2021 – https://arxiv.org/pdf/2012.15520
+Арабски, 4 варианта: 135M, 370M, 792M, 1.46B   
+(...)
 
 __See subprojects (such as EZ - Drone's Brain etc.) and R&D directions currently in the Issues of the project.__
 
