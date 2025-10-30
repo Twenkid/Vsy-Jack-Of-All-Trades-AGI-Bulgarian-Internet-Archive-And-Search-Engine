@@ -20,3 +20,13 @@ With Ollama:
 Qwen3-32B-MoE ... https://ollama.com/library/qwen3:32b
 
 See the Kaggle notebook with GPT-OSS-20B, Qwen-30B, Qwen-32B (slow - 2 x T4 x 10-11 GB))
+
+...
+
+Ollama: 
+ollama run gemma3:1b
+ollama run gemma3:4b
+ollama run qwen3:1.7b
+https://openai.com/index/introducing-gpt-oss/
+
+https://openai.com/index/deliberative-alignment/
