@@ -19,6 +19,15 @@ Qwen3-4B-instruct
 With Ollama:
 Qwen3-32B-MoE ... https://ollama.com/library/qwen3:32b
 
+https://huggingface.co/Qwen/Qwen3-32B
+```
+Number of Parameters: 32.8B
+Number of Paramaters (Non-Embedding): 31.2B
+Number of Layers: 64
+Number of Attention Heads (GQA): 64 for Q and 8 for KV
+Context Length: 32,768 natively and 131,072 tokens with YaRN.
+```
+
 See the Kaggle notebook with GPT-OSS-20B, Qwen-30B, Qwen-32B (slow - 2 x T4 x 10-11 GB))
 
 ...
