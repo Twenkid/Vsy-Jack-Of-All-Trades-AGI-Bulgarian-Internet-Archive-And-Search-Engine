@@ -17,7 +17,10 @@ See Agentic use.
 Qwen3-4B-instruct
 
 With Ollama:
-Qwen3-32B-MoE ... https://ollama.com/library/qwen3:32b
+* Qwen3-32B-MoE ... https://ollama.com/library/qwen3:32b
+* Qwen3-30B-A3B-Instruct... Enhanced capabilities in 256K long-context understanding. ...   https://ollama.com/alibayram/Qwen3-30B-A3B-Instruct-2507
+"Number of Parameters: 30.5B in total and 3.3B activated - Number of Paramaters (Non-Embedding): 29.9B - Number of Layers: 48 - Number of Attention Heads (GQA): 32 for Q and 4 for KV - Number of Experts: 128 - Number of Activated Experts: 8 - Context Length: 262,144 natively.
+NOTE: This model supports only non-thinking mode and does not generate <think></think> blocks in its output. Meanwhile, specifying enable_thinking=False is no longer required."
 
 https://huggingface.co/Qwen/Qwen3-32B
 ```
