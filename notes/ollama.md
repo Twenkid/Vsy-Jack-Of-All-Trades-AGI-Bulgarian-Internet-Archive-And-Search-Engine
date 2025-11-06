@@ -1,4 +1,7 @@
 # Ollama cheatsheet ...
+
+https://github.com/ollama/ollama-python/
+
 ```
 https://github.com/ollama/ollama-python/issues/101
 https://github.com/ollama/ollama-python/blob/main/ollama/_client.py
