@@ -51,6 +51,18 @@ os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
 
+CPU only, Windows:
+
+set CUDA_VISIBLE_DEVICES="" 
+GPUs
+set CUDA_VISIBLE_DEVICES=0
+set CUDA_VISIBLE_DEVICES=1
+set CUDA_VISIBLE_DEVICES=0,1
+
+
+Linux: export  ...
+...
+
 
 17.10.2025 г. 
 set CUDA_VISIBLE_DEVICES=0
@@ -137,3 +149,7 @@ nvidia-smi...
 ...
 
 https://ollama.com/blog/streaming-tool
+
+...
+Performance:
+CPU only i5 6500 3.3 GHz: gemma3:1b ~ 19.x - 20 tok/sec
