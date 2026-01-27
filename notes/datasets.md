@@ -4,7 +4,8 @@
 
 https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 
-
+* Scroll: <a href="@27.1.2026">@27.1.2026</a> imagenet, COCO, LVIS, ADE20K, Places365: ~2x.1.2026; note 27.1.2026 - partial downloads, study -- no need for the whole
+  
 * Tools, tutorials, hf dataset, formats:
 
 huggingface.co/docs/datasets/en/about_arrow
@@ -168,3 +169,21 @@ The Pile: An 800GB Dataset of Diverse Text for Language Modeling [Submitted on 3
 
 * https://github.com/RenzeLou/awesome-instruction-learning -- list to Datasets
 * https://github.com/allenai/unifiedqa
+
+----
+
+<a name="@27.1.2026">@27.1.2026</a>
+
+### Imagenet, COCO, LVIS, ADE20K, Places365
+
+* Imagenet
+* Download only a subset of 10-20 etc.: DONE --> generalize on; incremental features
+* COCO - selective download of subsets; only 80 classes + "stuff" (not downloaded); only validation set
+1. Dataset viewer - review; annotations
+2. LVIS - more classes (600) similar annotations, but not the same - modifiying the viewer (started manually, completed with Claude 4.5)
+3. Search for max classes 
+4. ADE20K ...
+5. Sample notebook - converted to normal python and run on the M93p/UBUNTU24.04 ... Petak I (P-I)
+6. Places365 .. Download @ Petak I ; too slow eventually --> skip ... 50 per class slow (streaming, datasets .... 1.x-2-3 sec per item ... 24 min/370 it/ ... 29 min / 503 it ... //turned on another run and it sped up? ... 1147it /59:56 min  ; save 95% jpg -- too high quality, whatever - downloaded it as it is for nowl pet it run
+7. Keep/watch/analyze -- connect the classes etc.
+8. ADE20K - utliers ... special categories, rare (outliers) ...
