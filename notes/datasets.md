@@ -185,6 +185,6 @@ The Pile: An 800GB Dataset of Diverse Text for Language Modeling [Submitted on 3
 3. Search for max classes 
 4. ADE20K ...
 5. Sample notebook - converted to normal python and run on the M93p/UBUNTU24.04 ... Petak I (P-I)
-6. Places365 .. Download @ Petak I ; too slow eventually --> skip ... 50 per class slow (streaming, datasets .... 1.x-2-3 sec per item ... 24 min/370 it/ ... 29 min / 503 it ... //turned on another run and it sped up? ... 1147it /59:56 min  ; save 95% jpg -- too high quality, whatever - downloaded it as it is for nowl pet it run
+6. Places365 .. Download @ Petak I ; too slow eventually --> skip ... 50 per class slow (streaming, datasets .... 1.x-2-3 sec per item ... 24 min/370 it/ ... 29 min / 503 it ... //turned on another run and it sped up? ... 1147it /59:56 min  ; save 95% jpg -- too high quality, whatever - downloaded it as it is for nowl pet it run ... 2070it/1:35:08 h
 7. Keep/watch/analyze -- connect the classes etc.
 8. ADE20K - utliers ... special categories, rare (outliers) ...
