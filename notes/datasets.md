@@ -4,7 +4,7 @@
 
 https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 
-* Scroll: <a href="@27.1.2026">@27.1.2026</a> imagenet, COCO, LVIS, ADE20K, Places365: ~2x.1.2026; note 27.1.2026 - partial downloads, study -- no need for the whole
+* Scroll: <a href="#27.1.2026">@27.1.2026</a> imagenet, COCO, LVIS, ADE20K, Places365: ~2x.1.2026; note 27.1.2026 - partial downloads, study -- no need for the whole
   
 * Tools, tutorials, hf dataset, formats:
 
