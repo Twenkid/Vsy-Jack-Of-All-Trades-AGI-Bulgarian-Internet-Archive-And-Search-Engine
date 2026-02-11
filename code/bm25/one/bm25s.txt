@@ -1,0 +1,19 @@
+#bm25s.txt
+
+@...:~/py$ 
+
+cd bm
+python3 -m venv .venv
+source .venv/bin/activate
+
+ms0.py - download BEIR dataset ...
+ms0.py  #initial indexing ...
+python3 ms1.py #after already indexed 8 M ... all just loads indices, 15.1.2026
+
+ms1.py
+
+ms2.py
+
+ms2a.py
+
+...
