@@ -1,0 +1,5 @@
+Python code. Scan the directory: it consists of other directories with image classes: class_1, class_2, class_3 ... class_364. Scan the files and put them in list.
+Generate scripts:
+ollama run moondream [PATH-TO-THE-FILES]
+and print them and store them in a shell script file.
+Allow generating commands for a selected number of items per folder, for example 10, 20 etc. or all files, also selection of the folders.
