@@ -1,5 +1,144 @@
+1.
+
+
 Python code. Scan the directory: it consists of other directories with image classes: class_1, class_2, class_3 ... class_364. Scan the files and put them in list.
 Generate scripts:
 ollama run moondream [PATH-TO-THE-FILES]
 and print them and store them in a shell script file.
 Allow generating commands for a selected number of items per folder, for example 10, 20 etc. or all files, also selection of the folders.
+
+
+
+2.
+
+
+Allow random sampling of files when items_per_folder is not None.
+
+
+=====
+
+TO CLAUDE, 28.1.2026
+
+
+*** Python code. Scan the directory: it consists of other directories with image classes: class_1, class_2, class_3 ... class_364. Scan the files and put them in list.
+Generate scripts:
+ollama run moondream [PATH-TO-THE-FILES]
+and print them and store them in a shell script file.
+Allow generating commands for a selected number of items per folder, for example 10, 20 etc. or all files, also selection of the folders.
+
+Jan 28
+I'll create a Python script that scans directories containing image classes and generates shell commands for processing them with Ollama's moondream model.
+
+
+Creating a Python script to scan image directories and generate Ollama moondream commands
+
+Now let me create a simpler interactive version as well:
+
+
+Creating an interactive version of the script with menu-driven interface
+
+Now let me create a README with usage examples:
+
+
+
+Creating a README with usage examples and documentation
+Now let me move these files to the outputs directory and present them:
+
+
+Ran 2 commands, read a file
+I've created two Python scripts for generating Ollama moondream commands from your image class directories:
+
+Scripts Created:
+generate_ollama_commands.py - Command-line version with full automation support
+generate_ollama_interactive.py - Menu-driven interactive version
+README.md - Complete documentation with examples
+Key Features:
+
+✅ Flexible folder selection - Choose all folders or specific ones (e.g., class_1, class_5, class_100) ✅ Item limit per folder - Process 10, 20, or any number of images per folder, or all ✅ Automatic scanning - Finds all image files (.jpg, .png, .gif, .bmp, .webp, .tiff) ✅ Shell script output - Generates executable .sh file with all commands ✅ Preview mode - Print commands without saving
+
+Quick Start:
+bash
+# Command-line: Process 10 files per folder
+python generate_ollama_commands.py /path/to/images --items-per-folder 10
+
+# Command-line: Process specific folders
+python generate_ollama_commands.py /path/to/images --folders class_1 class_2 class_5
+
+# Interactive: Follow prompts
+python generate_ollama_interactive.py
+The generated shell script will contain commands like:
+
+bash
+ollama run moondream "/path/to/images/class_1/image1.jpg"
+ollama run moondream "/path/to/images/class_1/image2.png"
+...
+Generate ollama commands
+PY 
+Generate ollama interactive
+PY 
+Readme
+
+
+
+
+
+
+Document · MD 
+*** Allow random sampling of files when items_per_folder is not None.
+
+
+
+
+Jan 28
+
+Edited 5 files
+Now let me update the interactive script:
+
+
+Edited 4 files
+Edited 4 files
+Now let me update the README with the new random sampling feature:
+
+
+Edited 5 files
+Edited 5 files
+Now let me present the updated files:
+
+
+Presented 3 files
+Presented 3 files
+Perfect! I've updated both scripts to support random sampling of files. Here's what's new:
+
+New Random Sampling Features:
+Command-line version:
+bash
+# Random sample 10 files per folder
+python generate_ollama_commands.py /path/to/images --items-per-folder 10 --random
+
+# Reproducible random sampling with seed
+python generate_ollama_commands.py /path/to/images --items-per-folder 10 --random --seed 42
+```
+
+### **Interactive version:**
+When you limit items per folder, the script now asks:
+```
+Sampling method:
+1. Sequential (first N items)
+2. Random sampling
+If you choose random sampling, you can optionally provide a seed for reproducibility.
+
+Why Random Sampling?
+Better representation: Instead of always getting the first N files (which might be alphabetically similar), you get a diverse sample
+Unbiased testing: Useful when filenames are ordered in ways that might bias your sample
+Reproducibility: Using --seed ensures you get the same random sample every time, which is great for experiments and sharing results
+Key Features:
+✅ --random flag for random sampling (default is sequential) ✅ --seed parameter for reproducible random samples ✅ Works with all other options (folder selection, item limits, etc.) ✅ Interactive script also supports both sampling methods
+
+The updated scripts are ready to use!
+
+Generate ollama commands
+PY 
+Generate ollama interactive
+PY 
+Readme
+Document · MD 
