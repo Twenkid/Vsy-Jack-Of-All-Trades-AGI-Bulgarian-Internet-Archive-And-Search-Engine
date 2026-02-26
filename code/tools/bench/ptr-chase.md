@@ -6,9 +6,12 @@
 
 git clone --recursive https://github.com/afborchert/pointer-chasing.git
 cd .....
+make
 ./fused-linear-chase
 ./linear-chase
 ./random-chase
+
+// g++ C++11 and GNU make
 
 Apply on the other nodes, too
 
