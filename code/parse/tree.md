@@ -2,6 +2,8 @@
 ## Parsers, AST, Tree-Sitter, ... 
 
 ```
+npm install tree-sitter
+
 npx tree-sitter generate
 npx tree-sitter parse grammar/p0.ml
 
