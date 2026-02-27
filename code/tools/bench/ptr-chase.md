@@ -16,7 +16,7 @@ make
 Apply on the other nodes, too
 
 * Node: **Petak-1.1**, 2x8 DDR3 1600, i5-3320M
-* Note: Some of the lines are under heavy load from other tasks, e.g. stride 72 in the fused...
+* Note: Some of the lines are under heavy load from other tasks, e.g. stride 72 in the fused... and all the time >350-360 tasks, > 1100-1150 threads ?(not recorded) 
 
 ```
  pointer-chasing git:(master) ✗ ./fused-linear-chase  
