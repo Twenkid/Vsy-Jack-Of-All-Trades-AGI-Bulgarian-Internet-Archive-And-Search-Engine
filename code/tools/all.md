@@ -31,4 +31,19 @@ make && make test
 
 See examples, utils.h, ... 
 
+
 https://github.com/jlblancoc/nanoflann/blob/master/examples/utils.h
+
+https://github.com/jlblancoc/nanoflann/blob/master/examples/KDTreeVectorOfVectorsAdaptor.h
+
+https://github.com/jlblancoc/nanoflann/blob/master/examples/matrix_example.cpp
+
+etc.
+
+...
+
+*** Networkit** 
+- Python, C++ backend
+
+https://networkit.github.io/
+
