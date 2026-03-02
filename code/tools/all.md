@@ -7,9 +7,9 @@ rsync
 
 https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
 
-graphs, voxels, ... 
+graphs, voxels, kd-trees; pybind  ... C++, Py
 
-nanoflann (kd-tree), bonxai (voxel)
+nanoflann (kd-tree), networks(py) bonxai (voxel)
 
 **Graphs**
 
@@ -56,7 +56,8 @@ https://networkit.github.io/
 
 Fast, hierarchical, sparse Voxel Grid
 https://github.com/jlblancoc/Bonxai 
-
+https://github.com/jlblancoc/Bonxai/blob/main/examples/bonxai_map_playground.cpp
+https://github.com/jlblancoc/Bonxai/blob/main/examples/test_serialization.cpp
 
 #include "bonxai/bonxai.hpp"
 
@@ -91,3 +92,6 @@ for( double x = 0; x < 1.0; x += voxel_resolution )
 // If the value of the cell has never been set, return nullptr
 int* value = accessor.value( coord );
 ```
+**binder: C++11-->Py**
+
+https://github.com/RosettaCommons/binder
