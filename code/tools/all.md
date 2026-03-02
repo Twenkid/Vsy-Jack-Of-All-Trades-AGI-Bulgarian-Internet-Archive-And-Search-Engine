@@ -7,6 +7,9 @@ rsync
 
 https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
 
+graphs, voxels, ... 
+
+nanoflann (kd-tree), bonxai (voxel)
 
 **Graphs**
 
@@ -42,8 +45,49 @@ etc.
 
 ...
 
-*** Networkit** 
+**Networkit** 
+
 - Python, C++ backend
 
 https://networkit.github.io/
 
+
+**Bonxai**  2.3.2026
+
+Fast, hierarchical, sparse Voxel Grid
+https://github.com/jlblancoc/Bonxai 
+
+
+#include "bonxai/bonxai.hpp"
+
+```C++
+
+double voxel_resolution = 0.05;
+Bonxai::VoxelGrid<int> grid( voxel_resolution );
+
+//Nothing prevents you from having more complex cell values, for instance:
+
+Bonxai::VoxelGrid<Eigen::Vector4d> vector_grid( voxel_resolution );
+
+//To insert values into a cell with coordinates x, y and z, use a VoxelGrid::Accessor object.
+//Dense cube of cells with value 42:
+
+// create the accessor ONCE and reuse it as much as possible
+
+auto accessor = grid.createAccessor();
+
+for( double x = 0; x < 1.0; x += voxel_resolution )
+{
+  for( double y = 0; y < 1.0; y += voxel_resolution )
+  {
+    for( double z = 0; z < 1.0; z += voxel_resolution )
+    {
+      Bonxai::CoordT coord = grid.posToCoord( x, y, z );
+      accessor.setValue( coord, 42 );
+    }
+  }
+}
+
+// If the value of the cell has never been set, return nullptr
+int* value = accessor.value( coord );
+```
