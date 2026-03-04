@@ -44,6 +44,19 @@ https://github.com/jlblancoc/nanoflann/blob/master/examples/matrix_example.cpp
 etc.
 
 ...
+**Networkx** 
+
+- Python
+
+https://networkx.org/en/
+
+https://networkx.org/documentation/stable/tutorial.html
+
+https://networkx.org/nx-guides/index.html
+
+https://networkx.org/nx-guides/content/algorithms/lca/LCA.html
+
+
 
 **Networkit** 
 
