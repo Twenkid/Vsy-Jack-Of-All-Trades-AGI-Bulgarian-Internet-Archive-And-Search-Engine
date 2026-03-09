@@ -12,11 +12,16 @@ Created: 11.9.2022 (dd/mm)
 
 ### _Artificial General Intelligence Infrastructure:_ Archive and Intelligent Database of selected portions, domains, topics, areas of the Internet; Web Search engine for the Bulgarian Internet and any localized or contextualized part of it defined by geography, language, topic etc. criteria; Service for media monitoring and information retrieval; Multimodal generative models: text, sound/speech, images, video; code etc.; scientific and technical hypotheses, designs, projects; machine translation, speech synthesis, speech recognition, conversational agents etc. and building datasets and knowledge bases etc.[^2]
 
-This project is one of the practical preparations and calls for collaborators, warm-up, training etc. for the major AGI project of "Sacred Computer" which involves other directions and theoretical research. See the book (currently Bulgarian only): _"The Prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers by the Child Prodigy Founder of the Bulgarian AGI and Transhumanism and Author of the World's First University Course in AGI"._
+This project is one of the practical preparations and calls for collaborators, warm-up, training etc. for the major AGI project of "Sacred Computer" which involves other directions and theoretical research. See the book: _"The Prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers; Past, Present and Future" by the Child Prodigy Founder of the Bulgarian AGI and Transhumanism and Author of the World's First University Course in AGI"._
 
 This project is connected and part of the <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a> (TOUM), or "The Bulgarian Prophecies" in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, A unification of Universe, Mind, Computation, Evolution, AI etc. 2001-2004 etc.
 
+Find the publications at "SIGI-2025" and the continuation 2026.
+
 **Visit & participate at the virtual conference Thinking Machines 2025:** https://github.com/Twenkid/SIGI-2025/
+https://github.com/Twenkid/SIGI-2026/
+
+* Watch for updates in this repo in code, data, tools etc. and news in the blog Artificial-Mind blog and the Facebook and Discord channel.
 
 ...
 [Follow news and publications at SIGI-2025, Artificial Mind etc. also the Issues and the folder with Notes and Data include updates. This front page is not updated lately - it might be after finishing some of the work I have on SIGI-2025. ]
