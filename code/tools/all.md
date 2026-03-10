@@ -58,6 +58,41 @@ https://networkx.org/nx-guides/content/algorithms/lca/LCA.html
 
 https://networkx.org/nx-guides/content/algorithms/isomorphism/isomorphism.html#vf2
 
+* Accelerators: https://rapids.ai/nx-cugraph/
+
+  pip install nx-cugraph-cu13 --extra-index-url https://pypi.nvidia.com
+
+NX_CUGRAPH_AUTOCONFIG=True
+
+python n1.py
+
+Colab:
+
+%env NX_CUGRAPH_AUTOCONFIG=True
+import networkx
+
+  etc.
+```
+import networkx as nx
+import pandas as pd
+
+url = "https://data.rapids.ai/cugraph/datasets/cit-Patents.csv"
+df = pd.read_csv(url, sep=" ", names=["src", "dst"], dtype="int32")
+G = nx.from_pandas_edgelist(df, source="src", target="dst")
+
+%time result = nx.betweenness_centrality(G, k=10)
+user@machine:/# ipython demo.ipy
+
+CPU times: user 7min 36s, sys: 5.22 s, total: 7min 41s
+Wall time: 7min 41s
+user@machine:/# NX_CUGRAPH_AUTOCONFIG=True ipython demo.ipy
+
+CPU times: user 4.14 s, sys: 1.13 s, total: 5.27 s
+Wall time: 5.32 s
+*NetworkX 3.4.1, nx-cugraph 24.10, CPU: Intel(R) Xeon(R) Gold 6128 CPU @ 3.40GHz 45GB RAM, GPU: NVIDIA Quadro RTX 8000 50GB RAM
+```
+https://github.com/networkx/nx-parallel  
+(pip install nx-parallel ... v0.2! in the repo 0.4 - .config ... - not like in the example) 10.3.2026
 
 **Networkit** 
 
