@@ -11,13 +11,14 @@ graphs, voxels, kd-trees; pybind  ... C++, Py
 
 nanoflann (kd-tree), networks(py) bonxai (voxel)
 
+
 **Graphs**
 
-28.2.2026
+28.2.2026+
 
 **nanoflann**
 
-* KD-Trees, nearest neighbour
+* C++, KD-Trees, nearest neighbour
 
 ```
 sudo apt install libnanoflann-dev
@@ -42,6 +43,14 @@ https://github.com/jlblancoc/nanoflann/blob/master/examples/KDTreeVectorOfVector
 https://github.com/jlblancoc/nanoflann/blob/master/examples/matrix_example.cpp
 
 etc.
+
+C++ graphs: headers only etc.: 
+
+* https://github.com/haasdo95/graphlite
+* https://github.com/ZigRazor/CXXGraph  --  Directed and undirected graphs; ✅ Dijkstra, A*, BFS, DFS; ✅ Zero dependencies; ✅ C++17 and above
+* https://github.com/luk036/xnetwork-cpp/  .... https://luk036.github.io/xnetwork-cpp/
+* https://github.com/haasdo95/graphlite  ... find a node by value
+* boost ..  https://www.boost.org/doc/libs/latest/libs/graph/doc/index.html
 
 ...
 **Networkx** 
